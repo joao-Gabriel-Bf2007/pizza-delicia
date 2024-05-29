@@ -1,3 +1,4 @@
 Exemplo de Historico de versionamento
 
 - incerindo linha inicial (Commit 1)
+- incerindo linha (Commit 2)
