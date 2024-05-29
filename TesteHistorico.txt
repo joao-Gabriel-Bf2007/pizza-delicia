@@ -3,3 +3,6 @@ Exemplo de Historico de versionamento
 - incerindo linha inicial (Commit 1)
 - incerindo linha (Commit 2)
 - incerindo linha (Commit 3)
+- incerindo linha (commit versao-recuperada)
+- incerindo linha (commit versao-recuperada)
+- incerindo linha (commit versao-recuperada)
